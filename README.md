@@ -8,7 +8,9 @@ Developed by **Tajith Rashidha Bandara Ekanayake** during his internship at **Fu
 ---
 
 ## 📸 Application Preview  
-`[Looks like the result wasn't safe to show. Let's switch things up and try something else!]`
+
+![Digi Pro X 24 Application Preview](app_preview.png)
+
 
 ---
 
