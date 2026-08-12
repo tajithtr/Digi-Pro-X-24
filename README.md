@@ -172,7 +172,7 @@ This repository does **not** grant unrestricted reuse, redistribution, or commer
 ---
 
 <div align="center">  
-🛒 **Digi Pro X 24**  
+🛒 Digi Pro X 24  
 <br>Technology • E-Commerce • IT Services  
-<br>Developed by **Tajith Rashidha Bandara Ekanayake**  
+<br>Developed by Tajith Rashidha Bandara Ekanayake  
 </div>  
