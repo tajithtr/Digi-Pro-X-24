@@ -1,0 +1,1 @@
+<?php $c = file_get_contents('admin/products.php'); $fixed = utf8_decode($c); file_put_contents('admin/products.php', $fixed); $c = file_get_contents('admin/services.php'); $fixed = utf8_decode($c); file_put_contents('admin/services.php', $fixed);

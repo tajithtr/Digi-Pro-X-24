@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+Allow: /assets/
+Allow: /uploads/
+Allow: /products.php
+Allow: /product_detail.php
+Allow: /categories.php
+Allow: /services.php
+Allow: /cart.php
+Allow: /checkout.php
+
+Disallow: /admin/
+Disallow: /backup/
+Disallow: /backup_seo_original/
+
+Sitemap: https://digiprox24.com/sitemap.xml
