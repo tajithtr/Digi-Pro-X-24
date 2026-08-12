@@ -18,10 +18,13 @@ Developed by **Tajith Rashidha Bandara Ekanayake** during his internship at **Fu
 ---
 
 ## 👨‍💻 Developer  
-**Name:** Tajith Rashidha Bandara Ekanayake  
-**Role:** Software Engineer Intern  
-**Organization:** Fusion Wave Systems (Pvt) Ltd  
-**Project Type:** Full-Stack E-Commerce Web Application  
+| Information | Details |
+|-------------|---------|
+| **Name** | Tajith Rashidha Bandara Ekanayake |
+| **Role** | Software Engineer Intern |
+| **Organization** | Fusion Wave Systems (Pvt) Ltd |
+| **Project** | Digi Pro X 24 |
+| **Type** | Full-Stack E-Commerce Web Application |
 
 ---
 
